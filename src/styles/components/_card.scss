@@ -1,0 +1,35 @@
+
+.card__container {
+    background-color: $base_gray_card;
+    margin: 0 auto;
+    padding: 30px;
+    font-weight: 800;
+    font-size: 12px;
+    border-radius: 8px;
+    width: 35%;
+}
+
+.card__container > div {
+    
+}
+
+.card__body {
+    font-size: 20px;
+    color: #fefefe;
+    font-weight: 800;
+    letter-spacing: 3px;
+    text-align: justify;
+}
+
+.card__header {
+    color: $neon_green;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.card__footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
