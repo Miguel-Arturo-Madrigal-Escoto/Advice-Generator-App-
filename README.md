@@ -50,9 +50,6 @@ In this challenge I improve my design skills with sass as well as using React wi
 so I could type the request made to the API easier.
 
 
-To see how you can add code snippets, see below:
-
-
 ## Author
 
 - Website - [Miguel Madrigal](https://miguel-arturo-madrigal-escoto.github.io/portafolio/)
