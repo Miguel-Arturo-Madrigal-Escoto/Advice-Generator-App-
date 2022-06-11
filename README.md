@@ -11,10 +11,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -33,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Miguel-Arturo-Madrigal-Escoto/Advice-Generator-App-](https://github.com/Miguel-Arturo-Madrigal-Escoto/Advice-Generator-App-)
+- Live Site URL: [https://miguel-arturo-madrigal-escoto.github.io/Advice-Generator-App-/](https://miguel-arturo-madrigal-escoto.github.io/Advice-Generator-App-/)
 
 ## My process
 
@@ -54,9 +51,6 @@ so I could type the request made to the API easier.
 
 
 To see how you can add code snippets, see below:
-
-
-### Useful resources
 
 
 ## Author

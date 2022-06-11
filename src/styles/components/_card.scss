@@ -69,3 +69,18 @@
     width: 40%;
     z-index: 9999;
 }
+
+@media (max-width: 1248px){
+    .card__container {
+        width: 75%;
+        margin: 0 30px;
+    }
+
+    .card__body {
+        font-size: 28px;
+    }
+
+    .card__header {
+        font-size: 16px;
+    }
+}
